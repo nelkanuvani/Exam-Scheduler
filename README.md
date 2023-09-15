@@ -91,4 +91,3 @@ Certainly! You can use the provided README section for your project documentatio
 
 This architecture separates concerns and promotes maintainability, scalability, and code reusability. It allows for efficient data flow from the user interface to the database and back, enabling the core functionality of the Exam Scheduling application.
 
-Feel free to use this information in your project documentation.
